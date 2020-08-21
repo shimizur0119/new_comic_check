@@ -1,17 +1,21 @@
 import React from "react";
 import { BrowserRouter, Route, Redirect, Switch } from "react-router-dom";
-import "bulma/css/bulma.css";
+import "./css/style.css";
 
 //My Component
-import Login from "./components/Login";
+import Login from "./components/5_pages/Login";
+import Home from "./components/5_pages/Home";
 
 function App() {
+  // const RedirectFunc = () => <Redirect to="/login" />;
+  const RedirectFunc = () => <Redirect to="/home" />;
   return (
     <>
       <BrowserRouter>
         <Switch>
-          <Route exact path="/" component={Login} />
-          <Route exact path="/login" component={Login} />
+          <Route exact path="/" component={RedirectFunc} />
+          <Route path="/login" component={Login} />
+          <Route path="/home" component={Home} />
         </Switch>
       </BrowserRouter>
     </>
