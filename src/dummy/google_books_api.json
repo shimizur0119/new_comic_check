@@ -1,0 +1,2214 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 332,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "PDj2DwAAQBAJ",
+      "etag": "sziy9JQ5Glc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PDj2DwAAQBAJ",
+      "volumeInfo": {
+        "title": "ＳＨＡＭＡＮ　ＫＩＮＧ　マルコス（１）",
+        "authors": ["武井宏之", "ジェット草村"],
+        "publisher": "講談社",
+        "publishedDate": "2020-08-17",
+        "description": "「全てはメイデン様のために――」グレート・スピリッツにいた全てのシャーマンは地上へと帰還した。しかしただ一人、マルコは行方知れずに。彼を探すため、X-LAWSのメンバーは世界各地へ飛ぶ。ライハイトはハオ組のラキストに会うため、メキシコの麻薬紛争地帯に向かい、変わり果てたペヨーテと遭遇する。",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "7909906194bcbce7_A",
+          "imageBubbleVersion": "7909906194bcbce7_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PDj2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PDj2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=PDj2DwAAQBAJ&pg=PP1&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PDj2DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PDj2DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "listPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PDj2DwAAQBAJ&rdid=book-PDj2DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%E3%83%9E%E3%83%AB-sample-epub.acsm?id=PDj2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%E3%83%9E%E3%83%AB-sample-pdf.acsm?id=PDj2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "武井宏之, ジェット草村. MAGAZINE EDGE KC オブメイズブラッーメイズ続きは <br>\nF.O.M で。 M0000. SHAMAN <b>KING</b> AROC YOU \\原作漫画武井宏之ジェット専村 <br>\n2009 F.O.M で全てが決着するがドンいちぞく. Front Cover."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PDj2DwAAQBAJ",
+      "etag": "Gltxywc357U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PDj2DwAAQBAJ",
+      "volumeInfo": {
+        "title": "ＳＨＡＭＡＮ　ＫＩＮＧ　マルコス（１）",
+        "authors": ["武井宏之", "ジェット草村"],
+        "publisher": "講談社",
+        "publishedDate": "2020-08-17",
+        "description": "「全てはメイデン様のために――」グレート・スピリッツにいた全てのシャーマンは地上へと帰還した。しかしただ一人、マルコは行方知れずに。彼を探すため、X-LAWSのメンバーは世界各地へ飛ぶ。ライハイトはハオ組のラキストに会うため、メキシコの麻薬紛争地帯に向かい、変わり果てたペヨーテと遭遇する。",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "7909906194bcbce7_A",
+          "imageBubbleVersion": "7909906194bcbce7_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PDj2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PDj2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=PDj2DwAAQBAJ&printsec=frontcover&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PDj2DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PDj2DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "listPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PDj2DwAAQBAJ&rdid=book-PDj2DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%E3%83%9E%E3%83%AB-sample-epub.acsm?id=PDj2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%E3%83%9E%E3%83%AB-sample-pdf.acsm?id=PDj2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "「全てはメイデン様のために――」グレート・スピリッツにいた全てのシャーマンは地上へと帰還した。しかしただ一人、マルコは行方知れずに。彼を探すため、X ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yCm7zQEACAAJ",
+      "etag": "27QYSgDrJ/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yCm7zQEACAAJ",
+      "volumeInfo": {
+        "title": "Shaman King Omnibus 3",
+        "authors": ["Hiroyuki Takei"],
+        "publisher": "Shaman King Omnibus",
+        "publishedDate": "2021-04-13",
+        "description": "The action manga bestseller returns, in 600-page editions featuring a remastered translation and new cover art by creator Hiroyuki Takei! Dive into the classic Shonen Jump adventure whose world of mystical spirits and bewitching battles inspired the classic anime. This volume corresponds to Vol. 7-9 of the original release, back in print more than 20 years after its initial release! In a world where shamans communicate with the dead and call forth the power of legendary spirits to defeat their enemies in both body and soul, Yoh is a teenager with the ultimate ambition: to become the Shaman King, the one and only shaman who may commune with the Great Spirit and help remake the world for the better. But the road to this pinnacle of spiritual power runs through the Shaman Fight, a gauntlet of battles with rival mediums who call forth dizzying powers from the world of the dead in their own bids for the crown. At Yoh's side is Anna, his coach, fiancée, and a powerful medium in her own right. Sure, it'd be nice if Yoh had a little more time to train and mature...but the Shaman Fight is only held once every 500 years, so he's going to have to grow up quick!",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "previewLink": "http://books.google.co.jp/books?id=yCm7zQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=yCm7zQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Omnibus_3.html?hl=&id=yCm7zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "This volume corresponds to Vol. 7-9 of the original release, back in print more than 20 years after its initial release!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lGPpDwAAQBAJ",
+      "etag": "EubnEST8jIA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lGPpDwAAQBAJ",
+      "volumeInfo": {
+        "title": "ＳＨＡＭＡＮ　ＫＩＮＧ　ＴＨＥ　ＳＵＰＥＲ　ＳＴＡＲ（４）",
+        "authors": ["武井宏之"],
+        "publisher": "講談社",
+        "publishedDate": "2020-06-17",
+        "description": "世界はいつも誰かの犠牲で成り立っている。アルミが開けた新世界の扉より現れたのは本物の恐山アンナ。チーム・ヤービス、戦艦大和をまとう青梅戒造、デスゼロ、そして麻倉花。激闘を制するのは誰かーー。",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "71086d175adc72b2_A",
+          "imageBubbleVersion": "71086d175adc72b2_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lGPpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lGPpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=lGPpDwAAQBAJ&printsec=frontcover&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lGPpDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lGPpDwAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "4",
+          "volumeSeries": [
+            {
+              "seriesId": "-ckpGwAAABDR0M",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 4
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP",
+        "listPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=lGPpDwAAQBAJ&rdid=book-lGPpDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%EF%BC%B4%EF%BC%A8-sample-epub.acsm?id=lGPpDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%EF%BC%B4%EF%BC%A8-sample-pdf.acsm?id=lGPpDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "世界はいつも誰かの犠牲で成り立っている。アルミが開けた新世界の扉より現れたのは本物の恐山アンナ。チーム・ヤービス、戦艦大和をまとう青梅戒造、デスゼロ、そして麻倉 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mW3VDwAAQBAJ",
+      "etag": "3CZQOmrSp/Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mW3VDwAAQBAJ",
+      "volumeInfo": {
+        "title": "ＳＨＡＭＡＮ　ＫＩＮＧ　レッドクリムゾン（４）",
+        "authors": ["武井宏之", "ジェット草村"],
+        "publisher": "講談社",
+        "publishedDate": "2020-03-17",
+        "description": "次なるシャーマンファイト、フラワー.オブ.メイズへ続く公式外伝！ 「やったらやり返される 報いも全て受け止める」 互いの家族のために死力を出し尽くす道潤と東紅紅。憎しみが絡み合う戦争の果てにあるものとは――。これは道家の最後の覚悟の物語。",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "1f48479acdb30f17_A",
+          "imageBubbleVersion": "1f48479acdb30f17_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mW3VDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mW3VDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=mW3VDwAAQBAJ&pg=PP1&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mW3VDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mW3VDwAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "4",
+          "volumeSeries": [
+            {
+              "seriesId": "T5YpGwAAABBnjM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 4
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP",
+        "listPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mW3VDwAAQBAJ&rdid=book-mW3VDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%E3%83%AC%E3%83%83-sample-epub.acsm?id=mW3VDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%E3%83%AC%E3%83%83-sample-pdf.acsm?id=mW3VDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "次なるシャーマンファイト、フラワー.オブ.メイズへ続く公式外伝！ 「やったらやり返される 報いも全て受け止める」 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9R_yDwAAQBAJ",
+      "etag": "YNX64deBYZ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9R_yDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Shaman King: Zero 1",
+        "authors": ["Hiroyuki Takei"],
+        "publisher": "Kodansha America LLC",
+        "publishedDate": "2020-08-04",
+        "description": "Return to the world of Shaman King! Before the Shaman Fight, there were countless tales of heartache and worry as Yoh and the others worked their ways toward the tournament...and they're here in Shaman King: Zero!",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9R_yDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9R_yDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=9R_yDwAAQBAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=9R_yDwAAQBAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Zero_1.html?hl=&id=9R_yDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "Return to the world of Shaman King! Before the Shaman Fight, there were countless tales of heartache and worry as Yoh and the others worked their ways toward the tournament...and they&#39;re here in Shaman King: Zero!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fNnsDwAAQBAJ",
+      "etag": "FyRjwWuPl5c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fNnsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Shaman King Star Edition - Tome 2",
+        "authors": ["Hiroyuki Takei"],
+        "publisher": "Kana",
+        "publishedDate": "2020-07-03T00:00:00+02:00",
+        "description": "Yoh Asakura, un garçon à l'allure nonchalante est en fait un Shaman. Il est à la recherche d'un fantôme avec qui il pourrait fusionner et gagner le Shaman Fight qui lui permettra de devenir Shaman King. C'est ainsi que Yoh fait la connaissance de l'esprit Amidamaru avec lequel il va participer au mystérieux tournoi qui n'a lieu que tous les 500 ans...",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "ab88779f32a03057_A",
+          "imageBubbleVersion": "ab88779f32a03057_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fNnsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fNnsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=fNnsDwAAQBAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=fNnsDwAAQBAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Star_Edition_Tome_2.html?hl=&id=fNnsDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "Yoh Asakura, un garçon à l&#39;allure nonchalante est en fait un Shaman."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e9nsDwAAQBAJ",
+      "etag": "P6CXDKiXL7Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e9nsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Shaman King Star Edition - Tome 3",
+        "authors": ["Hiroyuki Takei"],
+        "publisher": "Kana",
+        "publishedDate": "2020-07-03T00:00:00+02:00",
+        "description": "Yoh Asakura, un garçon à l'allure nonchalante est en fait un Shaman. Il est à la recherche d'un fantôme avec qui il pourrait fusionner et gagner le Shaman Fight qui lui permettra de devenir Shaman King. C'est ainsi que Yoh fait la connaissance de l'esprit Amidamaru avec lequel il va participer au mystérieux tournoi qui n'a lieu que tous les 500 ans...",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "425d3ce870ccbc07_A",
+          "imageBubbleVersion": "425d3ce870ccbc07_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e9nsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e9nsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=e9nsDwAAQBAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=e9nsDwAAQBAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Star_Edition_Tome_3.html?hl=&id=e9nsDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "Yoh Asakura, un garçon à l&#39;allure nonchalante est en fait un Shaman."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zx3jDwAAQBAJ",
+      "etag": "tBxMsWx3l1Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zx3jDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Shaman King Flowers - Tome 2",
+        "authors": ["Hiroyuki Takei"],
+        "publisher": "Kana",
+        "publishedDate": "2020-06-26T00:00:00+02:00",
+        "description": "Alors que rien ne devait se passer durant les 500 ans suivants le dernier Shaman Fight, auquel Yoh et ses amis ont participé, un désaccord entre les dieux déclenche un nouvel affrontement entre les shamans à l'issue duquel la forme de ce monde risque de changer. Hana, le fils de Yoh et Anna, est choisi pour devenir le leader de la « Team Hao », l'équipe représentant le dieu Hao en ce bas-monde. Mais avant même d'entrer dans le tournoi, il devra surmonter une épreuve inattendue et beaucoup plus périlleuse qu'il n'y paraît...",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "1266c80fbff9eb9a_A",
+          "imageBubbleVersion": "1266c80fbff9eb9a_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zx3jDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zx3jDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=zx3jDwAAQBAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=zx3jDwAAQBAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Flowers_Tome_2.html?hl=&id=zx3jDwAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "2",
+          "volumeSeries": [
+            {
+              "seriesId": "3AcrGwAAABD2HM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 2
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "Alors que rien ne devait se passer durant les 500 ans suivants le dernier Shaman Fight, auquel Yoh et ses amis ont participé, un désaccord entre les dieux déclenche un nouvel affrontement entre les shamans à l&#39;issue duquel la forme de ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FLivzQEACAAJ",
+      "etag": "yw7u2tHoMIc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FLivzQEACAAJ",
+      "volumeInfo": {
+        "title": "Shaman King Omnibus 2",
+        "authors": ["Hiroyuki Takei"],
+        "publisher": "Shaman King Omnibus",
+        "publishedDate": "2021-02-16",
+        "description": "The action manga bestseller returns, in 600-page editions featuring a remastered translation and new cover art by creator Hiroyuki Takei! Dive into the classic Shonen Jump adventure whose world of mystical spirits and bewitching battles inspired the classic anime. This volume corresponds to Vol. 4-6 of the original release, back in print more than 20 years after its initial release! In a world where shamans communicate with the dead and call forth the power of legendary spirits to defeat their enemies in both body and soul, Yoh is a teenager with the ultimate ambition: to become the Shaman King, the one and only shaman who may commune with the Great Spirit and help remake the world for the better. But the road to this pinnacle of spiritual power runs through the Shaman Fight, a gauntlet of battles with rival mediums who call forth dizzying powers from the world of the dead in their own bids for the crown. At Yoh's side is Anna, his coach, fiancée, and a powerful medium in her own right. Sure, it'd be nice if Yoh had a little more time to train and mature...but the Shaman Fight is only held once every 500 years, so he's going to have to grow up quick!",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "previewLink": "http://books.google.co.jp/books?id=FLivzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=FLivzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Omnibus_2.html?hl=&id=FLivzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "This volume corresponds to Vol. 4-6 of the original release, back in print more than 20 years after its initial release!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QlnDDwAAQBAJ",
+      "etag": "WGUDUiuxXqo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QlnDDwAAQBAJ",
+      "volumeInfo": {
+        "title": "ＳＨＡＭＡＮ　ＫＩＮＧ　ＴＨＥ　ＳＵＰＥＲ　ＳＴＡＲ（３）",
+        "authors": ["武井宏之"],
+        "publisher": "講談社",
+        "publishedDate": "2019-12-17",
+        "description": "チームハオ集結に向け、花の持ち霊を探すアルミ。青梅戒造の金庫の中に眠っていたのは戦場で散った戦士たちの霊だった！ 改造とデスゼロこと桜井少尉の過去の因縁が紐解かれる。その裏ではチームヤービスの鴨川らの暗躍が！？",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "b42f8cc44857be69_A",
+          "imageBubbleVersion": "b42f8cc44857be69_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QlnDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QlnDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=QlnDDwAAQBAJ&printsec=frontcover&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QlnDDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QlnDDwAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "3",
+          "volumeSeries": [
+            {
+              "seriesId": "-ckpGwAAABDR0M",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 3
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP",
+        "listPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QlnDDwAAQBAJ&rdid=book-QlnDDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%EF%BC%B4%EF%BC%A8-sample-epub.acsm?id=QlnDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%EF%BC%B4%EF%BC%A8-sample-pdf.acsm?id=QlnDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "チームハオ集結に向け、花の持ち霊を探すアルミ。青梅戒造の金庫の中に眠っていたのは戦場で散った戦士たちの霊だった！ ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Tb68DwAAQBAJ",
+      "etag": "1slEi+1nbNg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tb68DwAAQBAJ",
+      "volumeInfo": {
+        "title": "ＳＨＡＭＡＮ　ＫＩＮＧ　レッドクリムゾン（３）",
+        "authors": ["武井宏之", "ジェット草村"],
+        "publisher": "講談社",
+        "publishedDate": "2019-11-15",
+        "description": "シャーマンキング初の公式外伝！ 「やったらやり返される」 「世界が平和でありますように」道家と東一族との争いの犠牲となったアイアンメイデン・ジャンヌ。憎しみの連鎖を断ち切るため、道潤と李白竜が向かった先は？ これは道家最後の愛の物語。",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "3a28baccb3feec77_A",
+          "imageBubbleVersion": "3a28baccb3feec77_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Tb68DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Tb68DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=Tb68DwAAQBAJ&pg=PP1&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Tb68DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Tb68DwAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "3",
+          "volumeSeries": [
+            {
+              "seriesId": "T5YpGwAAABBnjM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 3
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP",
+        "listPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Tb68DwAAQBAJ&rdid=book-Tb68DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%E3%83%AC%E3%83%83-sample-epub.acsm?id=Tb68DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%E3%83%AC%E3%83%83-sample-pdf.acsm?id=Tb68DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "シャーマンキング初の公式外伝！ 「すべてはF.O.Mのために」 レッドクリムゾン幹部と相対した道潤と李白竜らの前に現れたのは、圧倒的力を持つ東一族。一触即発の空気を消し ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TiNMzQEACAAJ",
+      "etag": "lHYcm61yytU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TiNMzQEACAAJ",
+      "volumeInfo": {
+        "title": "SHAMAN KING THE SUPER STAR 3",
+        "authors": ["武井宏之"],
+        "publishedDate": "2019-12",
+        "description": "シャーマンキング新章開幕すべては次なるフラワーオブメイズのために!",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=TiNMzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=TiNMzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SHAMAN_KING_THE_SUPER_STAR_3.html?hl=&id=TiNMzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "シャーマンキング新章開幕すべては次なるフラワーオブメイズのために!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-E7UDwAAQBAJ",
+      "etag": "4eXuKBdhaDs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-E7UDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Shaman King Flowers - Tome 1",
+        "authors": ["Hiroyuki Takei"],
+        "publisher": "Kana",
+        "publishedDate": "2020-03-06T00:00:00+01:00",
+        "description": "Alors que rien ne devait se passer durant les 500 ans suivants le dernier Shaman Fight, auquel Yoh et ses amis ont participé, un désaccord entre les dieux déclenche un nouvel affrontement entre les shamans à l'issue duquel la forme de ce monde risque de changer. Hana, le fils de Yoh et Anna, est choisi pour devenir le leader de la « Team Hao », l'équipe représentant le dieu Hao en ce bas-monde. Mais avant même d'entrer dans le tournoi, il devra surmonter une épreuve inattendue et beaucoup plus périlleuse qu'il n'y paraît...",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "e1c43f72033ce50a_A",
+          "imageBubbleVersion": "e1c43f72033ce50a_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-E7UDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-E7UDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=-E7UDwAAQBAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=-E7UDwAAQBAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Flowers_Tome_1.html?hl=&id=-E7UDwAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "1",
+          "volumeSeries": [
+            {
+              "seriesId": "3AcrGwAAABD2HM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 1
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "Alors que rien ne devait se passer durant les 500 ans suivants le dernier Shaman Fight, auquel Yoh et ses amis ont participé, un désaccord entre les dieux déclenche un nouvel affrontement entre les shamans à l&#39;issue duquel la forme de ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4lW4zQEACAAJ",
+      "etag": "cMU7NT1lx2k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4lW4zQEACAAJ",
+      "volumeInfo": {
+        "title": "Shaman King Omnibus 1",
+        "authors": ["Hiroyuki Takei"],
+        "publisher": "Shaman King Omnibus",
+        "publishedDate": "2021-02-16",
+        "description": "The action manga bestseller returns, in 600-page editions featuring a remastered translation and new cover art by creator Hiroyuki Takei! Dive into the classic Shonen Jump adventure whose world of mystical spirits and bewitching battles inspired the classic anime. This volume corresponds to Vol. 1-3 of the original release, back in print more than 20 years after its initial release! In a world where shamans communicate with the dead and call forth the power of legendary spirits to defeat their enemies in both body and soul, Yoh is a teenager with the ultimate ambition: to become the Shaman King, the one and only shaman who may commune with the Great Spirit and help remake the world for the better. But the road to this pinnacle of spiritual power runs through the Shaman Fight, a gauntlet of battles with rival mediums who call forth dizzying powers from the world of the dead in their own bids for the crown. At Yoh's side is Anna, his coach, fiancée, and a powerful medium in her own right. Sure, it'd be nice if Yoh had a little more time to train and mature...but the Shaman Fight is only held once every 500 years, so he's going to have to grow up quick!",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "previewLink": "http://books.google.co.jp/books?id=4lW4zQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=4lW4zQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Omnibus_1.html?hl=&id=4lW4zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "This volume corresponds to Vol. 1-3 of the original release, back in print more than 20 years after its initial release!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tZW4DwAAQBAJ",
+      "etag": "rh8p9oulJGI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tZW4DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Shaman Circle",
+        "authors": ["Danny Self"],
+        "publisher": "Page Publishing Inc",
+        "publishedDate": "2019-10-23",
+        "description": "Michael Crichton meets Stephen King in the Shaman Circle. Middlesex Hospital, like most small hospitals, is struggling to stay afloat on a sea of uncertain revenues, but the new long-term ventilator facility just completed will command $40,000 a month for every patient. It promises to lift the hospital out of the whirlpool of debt in which it finds itself. There is just one problem: the ground it’s built on was a barren circle of land, feared and, at the same time, considered sacred by the local Indian tribes. Dave Hollings is the night-shift respiratory supervisor at Middlesex. Rumors surrounding the construction of the new facility raise his concern for his coma patient’s well-being and safety—particularly, the eight-year-old orphaned girl who is in a persistent vegetative state. As soon as the new facility opens, nurses begin seeing hideous faces on cardiac monitors, therapists begin finding unexplained changes to ventilator settings, intravenous solutions start turning into green goop. And throughout the facility, moving from room to room, are bright-green flashes and semitransparent apparitions. It is just an unacceptable, untenable, and unworkable environment. Forced to work in the facility night after night, Dave comes to the conclusion that whatever supernatural force is haunting the facility is not hurting the patients but helping them. He comes to believe that it’s instrumental in their emergence from their comas. Dave changes his demand that facility be closed and convinces the chief administrator to keep it open. But when he returns to work, he discovers that despite the administrator’s promise, all the patients have been transferred into the main hospital facility. He has no idea that the administrator’s father-in-law, a powerful mob boss who is on the hospital board, built the facility and embezzled a million dollars during its construction. Dave desperately tries to sneak the young girl back into the facility for one more night to complete her recovery while, at the same time, one member of the mob is preparing to burn it to the ground.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tZW4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tZW4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=tZW4DwAAQBAJ&printsec=frontcover&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tZW4DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tZW4DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "listPrice": {
+          "amount": 1181,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 1063,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tZW4DwAAQBAJ&rdid=book-tZW4DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1181000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 1063000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/The_Shaman_Circle-sample-epub.acsm?id=tZW4DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/The_Shaman_Circle-sample-pdf.acsm?id=tZW4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "Michael Crichton meets Stephen King in the Shaman Circle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jW7KDwAAQBAJ",
+      "etag": "NWfPT9D/BIw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jW7KDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Shaman King Star Edition - Tome 1",
+        "authors": ["Hiroyuki Takei"],
+        "publisher": "Kana",
+        "publishedDate": "2020-01-17T00:00:00+01:00",
+        "description": "Yoh Asakura, un garçon à l'allure nonchalante est en fait un Shaman. Il est à la recherche d'un fantôme avec qui il pourrait fusionner et gagner le Shaman Fight qui lui permettra de devenir Shaman King. C'est ainsi que Yoh fait la connaissance de l'esprit Amidamaru avec lequel il va participer au mystérieux tournoi qui n'a lieu que tous les 500 ans...",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jW7KDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jW7KDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=jW7KDwAAQBAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=jW7KDwAAQBAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Star_Edition_Tome_1.html?hl=&id=jW7KDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "Yoh Asakura, un garçon à l&#39;allure nonchalante est en fait un Shaman."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j27KDwAAQBAJ",
+      "etag": "6z2mQMXDfwU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j27KDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Shaman King Star Edition - Tome 17",
+        "authors": ["Hiroyuki Takei"],
+        "publisher": "Kana",
+        "publishedDate": "2020-01-17T00:00:00+01:00",
+        "description": "Hao a été plongé dans un profond sommeil... Quand il se réveillera, il deviendra le Shaman King ! Mais Yoh est décidé à l'affronter une dernière fois... Voici la finale inédite du Shaman Fight !",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j27KDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j27KDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=j27KDwAAQBAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=j27KDwAAQBAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Star_Edition_Tome_17.html?hl=&id=j27KDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "Hao a été plongé dans un profond sommeil... Quand il se réveillera, il deviendra le Shaman King ! Mais Yoh est décidé à l&#39;affronter une dernière fois... Voici la finale inédite du Shaman Fight !"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5vSDzQEACAAJ",
+      "etag": "GJkOo3A4BSc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5vSDzQEACAAJ",
+      "volumeInfo": {
+        "title": "Shaman King 04",
+        "subtitle": "ReEdition als 2in1 Ausgabe",
+        "authors": ["Hiroyuki Takei"],
+        "publishedDate": "2020-09",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=5vSDzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=5vSDzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_04.html?hl=&id=5vSDzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IN6nDwAAQBAJ",
+      "etag": "cpSy9tvMfdA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IN6nDwAAQBAJ",
+      "volumeInfo": {
+        "title": "ＳＨＡＭＡＮ　ＫＩＮＧ　ＴＨＥ　ＳＵＰＥＲ　ＳＴＡＲ（２）",
+        "authors": ["武井宏之"],
+        "publisher": "講談社",
+        "publishedDate": "2019-08-16",
+        "description": "シャーマンが己に憑依させて尚 あふれ出る霊のカタチ、オーバーソウル。 戦艦大和を纏う青梅戒造と対峙するのは 三代目イタコのアンナことアルミ・ニウムバーチ。 全ては神々の代理戦争、F.O.M.に勝つために。 開かずの金庫を巡る戦いの火蓋が切って落とされた――。",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "8da5690cf20cef21_A",
+          "imageBubbleVersion": "8da5690cf20cef21_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IN6nDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IN6nDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=IN6nDwAAQBAJ&printsec=frontcover&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IN6nDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IN6nDwAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "2",
+          "volumeSeries": [
+            {
+              "seriesId": "-ckpGwAAABDR0M",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 2
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP",
+        "listPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IN6nDwAAQBAJ&rdid=book-IN6nDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%EF%BC%B4%EF%BC%A8-sample-epub.acsm?id=IN6nDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%EF%BC%B4%EF%BC%A8-sample-pdf.acsm?id=IN6nDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "シャーマンが己に憑依させて尚 あふれ出る霊のカタチ、オーバーソウル。 戦艦大和を纏う青梅戒造と対峙するのは 三代目イタコのアンナことアルミ・ニウムバーチ。 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wouMzQEACAAJ",
+      "etag": "k82OvTJ1JyM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wouMzQEACAAJ",
+      "volumeInfo": {
+        "title": "Shaman King 03",
+        "subtitle": "ReEdition als 2in1 Ausgabe",
+        "authors": ["Hiroyuki Takei"],
+        "publishedDate": "2020-07",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=wouMzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=wouMzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_03.html?hl=&id=wouMzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OP-azQEACAAJ",
+      "etag": "xptu2/ge0VY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OP-azQEACAAJ",
+      "volumeInfo": {
+        "title": "Shaman King Flowers Tome 2",
+        "publisher": "Kana",
+        "publishedDate": "2020-06-26",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=OP-azQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=OP-azQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Flowers_Tome_2.html?hl=&id=OP-azQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wx2RzQEACAAJ",
+      "etag": "57VAL63mJ10",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wx2RzQEACAAJ",
+      "volumeInfo": {
+        "title": "Shaman King",
+        "subtitle": "Wide Ruled Journal for Writing, Note Taking, for Girls Boys Kids Teens Students Teachers Women and Adults, Gifts for Anime Lovers - Notebook/Journal (6x9 - 100 Pages)",
+        "authors": ["Kristina Reece"],
+        "publishedDate": "2020-04-25",
+        "description": "Specifications: 6\" x 9\" letter size Premium Matte Soft Cover Perfect Paperback Binding 100 college-ruled lined pages Perfect For : Note Taking, To Do List, Planner, School, Work, College, Recipes, Stories ... Makes a great Christmas, birthday, mothers day, graduation or beginning of the school year gift for Men & Women and Boys & Girls",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=Wx2RzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=Wx2RzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King.html?hl=&id=Wx2RzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "Specifications: 6&quot; x 9&quot; letter size Premium Matte Soft Cover Perfect Paperback Binding 100 college-ruled lined pages Perfect For : Note Taking, To Do List, Planner, School, Work, College, Recipes, Stories ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R-A5zQEACAAJ",
+      "etag": "fhtbI0a++sI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R-A5zQEACAAJ",
+      "volumeInfo": {
+        "title": "Shaman King 01",
+        "authors": ["Hiroyuki Takei"],
+        "publishedDate": "2020-03-02",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=R-A5zQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=R-A5zQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_01.html?hl=&id=R-A5zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rhxJzQEACAAJ",
+      "etag": "FgT9EXpM7A8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rhxJzQEACAAJ",
+      "volumeInfo": {
+        "title": "Shaman King Tome 17",
+        "publisher": "Kana",
+        "publishedDate": "2020-01-17",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=rhxJzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=rhxJzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Tome_17.html?hl=&id=rhxJzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dsFKzQEACAAJ",
+      "etag": "5hcJWOsCPPM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dsFKzQEACAAJ",
+      "volumeInfo": {
+        "title": "SHAMAN KING レッドクリムゾン 3",
+        "authors": ["武井宏之"],
+        "publishedDate": "2019-11",
+        "description": "道家対東一族、憎しみの連鎖の果てにあるものは。",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=dsFKzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=dsFKzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SHAMAN_KING_%E3%83%AC%E3%83%83%E3%83%89%E3%82%AF%E3%83%AA%E3%83%A0%E3%82%BE%E3%83%B3_3.html?hl=&id=dsFKzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "道家対東一族、憎しみの連鎖の果てにあるものは。"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MNhKygEACAAJ",
+      "etag": "wMjk/pG8LNk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MNhKygEACAAJ",
+      "volumeInfo": {
+        "title": "SHAMAN KING THE SUPER STAR 2",
+        "authors": ["武井宏之"],
+        "publishedDate": "2019-08",
+        "description": "シャーマンキング新章開幕! チームハオ集結に向け、アルミが狙う金庫の中身とは?",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=MNhKygEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=MNhKygEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SHAMAN_KING_THE_SUPER_STAR_2.html?hl=&id=MNhKygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "シャーマンキング新章開幕! チームハオ集結に向け、アルミが狙う金庫の中身とは?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BlGNzQEACAAJ",
+      "etag": "/NTxHIWmkck",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BlGNzQEACAAJ",
+      "volumeInfo": {
+        "title": "Shaman King - Einzelband 02",
+        "authors": ["Hiroyuki Takei"],
+        "publishedDate": "2020",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=BlGNzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=BlGNzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Einzelband_02.html?hl=&id=BlGNzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gn52zQEACAAJ",
+      "etag": "mLKV0dQbpfo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gn52zQEACAAJ",
+      "volumeInfo": {
+        "title": "Shaman King - Einzelband 01",
+        "authors": ["Hiroyuki Takei"],
+        "publishedDate": "2020",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=gn52zQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=gn52zQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Einzelband_01.html?hl=&id=gn52zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2Nt8zQEACAAJ",
+      "etag": "luGH3OvlSdM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Nt8zQEACAAJ",
+      "volumeInfo": {
+        "title": "Shaman King - Einzelband 03",
+        "authors": ["Hiroyuki Takei"],
+        "publishedDate": "2020",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=2Nt8zQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=2Nt8zQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Einzelband_03.html?hl=&id=2Nt8zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HfaLzQEACAAJ",
+      "etag": "j/sEDnW0RiI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HfaLzQEACAAJ",
+      "volumeInfo": {
+        "title": "Shaman King",
+        "authors": ["Hiroyuki Takei"],
+        "publishedDate": "2020",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=HfaLzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=HfaLzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King.html?hl=&id=HfaLzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z0evzQEACAAJ",
+      "etag": "f26v4fxS3p0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z0evzQEACAAJ",
+      "volumeInfo": {
+        "title": "Shaman King - Einzelband 06",
+        "authors": ["Hiroyuki Takei"],
+        "publishedDate": "2020",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=z0evzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=z0evzQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shaman_King_Einzelband_06.html?hl=&id=z0evzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BdeUxgEACAAJ",
+      "etag": "6Br+B1vZMA0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BdeUxgEACAAJ",
+      "volumeInfo": {
+        "title": "Astre'Noon The Shaman King",
+        "authors": ["Kyle William Kilpatrick"],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-06-19",
+        "description": "The Universe is on the verge of collapse. The Akashic Records hold the answer to save the Universe. Many have attempted to unlock these mysteries and died trying. Astre'Noon, the Shaman King, is the one entity who has the key to unlock 'The Ancient Text of the Cosmos' and thereby unveiling the wisdom of the Akashic Records. Getting to the records requires jumping through many realms and gaining passage by powerful beings. Astre'Noon will be tested and his faith will be challenged on this epic spiritual odyssey. Every aspect of what he knows about the cosmos and who he is are all critical elements which will determine if he succeeds or perishes with the Universe.",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BdeUxgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BdeUxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=BdeUxgEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=BdeUxgEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Astre_Noon_The_Shaman_King.html?hl=&id=BdeUxgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "Many have attempted to unlock these mysteries and died trying. Astre&#39;Noon, the Shaman King, is the one entity who has the key to unlock &#39;The Ancient Text of the Cosmos&#39; and thereby unveiling the wisdom of the Akashic Records."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZeicDwAAQBAJ",
+      "etag": "LWgoKJz8pVY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZeicDwAAQBAJ",
+      "volumeInfo": {
+        "title": "ＳＨＡＭＡＮ　ＫＩＮＧ　レッドクリムゾン（２）",
+        "authors": ["武井宏之", "ジェット草村"],
+        "publisher": "講談社",
+        "publishedDate": "2019-06-17",
+        "description": "シャーマンキング初の公式外伝！ 「やったらやり返される」 「世界が平和でありますように」道家と東一族との争いの犠牲となったアイアンメイデン・ジャンヌ。憎しみの連鎖を断ち切るため、道潤と李白竜が向かった先は？これは道家最後の愛の物語。",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "98010f477a6e7b68_A",
+          "imageBubbleVersion": "98010f477a6e7b68_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZeicDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZeicDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=ZeicDwAAQBAJ&printsec=frontcover&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZeicDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZeicDwAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "2",
+          "volumeSeries": [
+            {
+              "seriesId": "T5YpGwAAABBnjM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 2
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP",
+        "listPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZeicDwAAQBAJ&rdid=book-ZeicDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%E3%83%AC%E3%83%83-sample-epub.acsm?id=ZeicDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%E3%83%AC%E3%83%83-sample-pdf.acsm?id=ZeicDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "シャーマンキング初の公式外伝！ 「やったらやり返される」 「世界が平和でありますように」道家と東一族との争いの犠牲となったアイアンメイデン・ジャンヌ。憎しみの連鎖 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oT46yQEACAAJ",
+      "etag": "dXcVtH5m0sE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oT46yQEACAAJ",
+      "volumeInfo": {
+        "title": "SHAMAN KING レッドクリムゾン 2",
+        "authors": ["武井宏之"],
+        "publishedDate": "2019-06",
+        "description": "「世界が平和でありますように」道家と東一族との争いの犠牲となったアイアンメイデン・ジャンヌ。憎しみの連鎖を断ち切れるのか?",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.co.jp/books?id=oT46yQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=oT46yQEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SHAMAN_KING_%E3%83%AC%E3%83%83%E3%83%89%E3%82%AF%E3%83%AA%E3%83%A0%E3%82%BE%E3%83%B3_2.html?hl=&id=oT46yQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "「世界が平和でありますように」道家と東一族との争いの犠牲となったアイアンメイデン・ジャンヌ。憎しみの連鎖を断ち切れるのか?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HRN9DwAAQBAJ",
+      "etag": "MNBus1fFE4s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HRN9DwAAQBAJ",
+      "volumeInfo": {
+        "title": "ＳＨＡＭＡＮ　ＫＩＮＧ　ＣＨＡＲＡＣＴＥＲ　ＢＯＯＫ　原色魂図鑑",
+        "authors": ["武井宏之"],
+        "publisher": "講談社",
+        "publishedDate": "2018-11-30",
+        "description": "『SHAMAN KING』に登場した全３７６体のキャラクターをフルカラーで紹介。まさに原色、まさに魂の図鑑！",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HRN9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HRN9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=HRN9DwAAQBAJ&printsec=frontcover&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HRN9DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HRN9DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "listPrice": {
+          "amount": 1980,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 1980,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HRN9DwAAQBAJ&rdid=book-HRN9DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1980000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 1980000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%EF%BC%A3%EF%BC%A8-sample-epub.acsm?id=HRN9DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%EF%BC%A3%EF%BC%A8-sample-pdf.acsm?id=HRN9DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "『SHAMAN KING』に登場した全３７６体のキャラクターをフルカラーで紹介。まさに原色、まさに魂の図鑑！"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jYZ5DwAAQBAJ",
+      "etag": "5vcE1ECldSw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jYZ5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "ＳＨＡＭＡＮ　ＫＩＮＧ　レッドクリムゾン（１）",
+        "authors": ["武井宏之", "ジェット草村"],
+        "publisher": "講談社",
+        "publishedDate": "2018-11-15",
+        "description": "シャーマンキング初の公式外伝！「お前達さえいなければ、私の家族はみんな幸せだったんだ…！！」道家二千年の憎しみの連鎖と凄惨な歴史に、道潤と李白竜が立ち向かう。これは道家の最後の戦争の物語。",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "9dd360bb792e9998",
+          "imageBubbleVersion": "9dd360bb792e9998"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jYZ5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jYZ5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=jYZ5DwAAQBAJ&printsec=frontcover&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jYZ5DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jYZ5DwAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "1",
+          "volumeSeries": [
+            {
+              "seriesId": "T5YpGwAAABBnjM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 1
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP",
+        "listPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jYZ5DwAAQBAJ&rdid=book-jYZ5DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%E3%83%AC%E3%83%83-sample-epub.acsm?id=jYZ5DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%E3%83%AC%E3%83%83-sample-pdf.acsm?id=jYZ5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "シャーマンキング初の公式外伝！「お前達さえいなければ、私の家族はみんな幸せだったんだ…！！」道家二千年の憎しみの連鎖と凄惨な歴史に、道潤と李白竜が立ち向かう。こ ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s1Z2DwAAQBAJ",
+      "etag": "jrvDUT1ldyo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s1Z2DwAAQBAJ",
+      "volumeInfo": {
+        "title": "ＳＨＡＭＡＮ　ＫＩＮＧ　ＦＡＵＳＴ８　「永遠のエリザ」",
+        "authors": ["虎走かける", "武井宏之"],
+        "publisher": "講談社",
+        "publishedDate": "2018-11-15",
+        "description": "「愛しています、ぼくの恋人になってください」ファウストとエリザの出会い、闘病の末に掴んだ束の間の幸福、そして降りかかる悲劇。死とは？ 生とは？ この問いに抗い続けたファウスト８世の物語。",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s1Z2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s1Z2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=s1Z2DwAAQBAJ&printsec=frontcover&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=s1Z2DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s1Z2DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "listPrice": {
+          "amount": 715,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 715,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=s1Z2DwAAQBAJ&rdid=book-s1Z2DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 715000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 715000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%EF%BC%A6%EF%BC%A1-sample-epub.acsm?id=s1Z2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%EF%BC%A6%EF%BC%A1-sample-pdf.acsm?id=s1Z2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "「愛しています、ぼくの恋人になってください」ファウストとエリザの出会い、闘病の末に掴んだ束の間の幸福、そして降りかかる悲劇。死とは？ 生とは？ ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "94N5DwAAQBAJ",
+      "etag": "pmelaRX2dp4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/94N5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "ＳＨＡＭＡＮ　ＫＩＮＧ　ＴＨＥ　ＳＵＰＥＲ　ＳＴＡＲ（１）",
+        "authors": ["武井宏之"],
+        "publisher": "講談社",
+        "publishedDate": "2018-11-15",
+        "description": "シャーマンって知ってる！？ この世とあの世を結んで、神・精霊・死者の霊なんかと交流できる不思議な能力をもった人らしい。そんなシャーマンの三代目イタコのアンナことアルミ・ニウムバーチが探すのは、神々の代理戦争を勝つための超級霊だった。長野に集う綺羅星達は、アルミ、デスゼロ、花と続き、物語は交錯していく。",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "5ac59e6148206966_A",
+          "imageBubbleVersion": "5ac59e6148206966_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=94N5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=94N5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=94N5DwAAQBAJ&printsec=frontcover&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=94N5DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=94N5DwAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "1",
+          "volumeSeries": [
+            {
+              "seriesId": "-ckpGwAAABDR0M",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 1
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP",
+        "listPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 660,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=94N5DwAAQBAJ&rdid=book-94N5DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 660000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%EF%BC%B4%EF%BC%A8-sample-epub.acsm?id=94N5DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%B3%EF%BC%A8%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE_%EF%BC%AB%EF%BC%A9%EF%BC%AE%EF%BC%A7_%EF%BC%B4%EF%BC%A8-sample-pdf.acsm?id=94N5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "accessViewStatus": "SAMPLE"
+      },
+      "searchInfo": {
+        "textSnippet": "シャーマンって知ってる！？ この世とあの世を結んで、神・精霊・死者の霊なんかと交流できる不思議な能力をもった人らしい。そんなシャーマンの三代目イタコのアンナこと ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vuJpwAEACAAJ",
+      "etag": "QfI4yuuH+KA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vuJpwAEACAAJ",
+      "volumeInfo": {
+        "title": "SHAMAN KING CHARACTER BOOK 原色魂図鑑",
+        "authors": ["武井宏之"],
+        "publishedDate": "2018-11",
+        "description": "SHAMAN KINGに登場する全376名のキャラクター達をフルカラーで紹介。",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vuJpwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vuJpwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.co.jp/books?id=vuJpwAEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=vuJpwAEACAAJ&dq=intitle:shaman+king&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SHAMAN_KING_CHARACTER_BOOK_%E5%8E%9F%E8%89%B2%E9%AD%82%E5%9B%B3.html?hl=&id=vuJpwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP"
+      },
+      "accessInfo": {
+        "country": "JP",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "accessViewStatus": "NONE"
+      },
+      "searchInfo": {
+        "textSnippet": "SHAMAN KINGに登場する全376名のキャラクター達をフルカラーで紹介。"
+      }
+    }
+  ]
+}
