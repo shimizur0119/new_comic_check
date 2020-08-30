@@ -1,26 +1,21 @@
-import React from "react";
-import { useSelector, useDispatch } from "react-redux";
-import { StoreState } from "../../stores/index";
-import { loginFetch } from "../../stores/login";
+import React, { useRef } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { useFirebase, isLoaded, isEmpty } from "react-redux-firebase";
+import { RootState } from "../../stores";
 
 const LoginButtonWithGoogle = () => {
-  const dispatch = useDispatch();
-  const email = useSelector((state: StoreState) => state.login.email);
-  const password = useSelector((state: StoreState) => state.login.password);
-
+  const firebase = useFirebase();
+  const auth = useSelector((state: RootState) => state.firebase.auth);
   const onClickFunc = () => {
-    dispatch(loginFetch([email, password]));
+    console.log("click googleButton");
+    return firebase.login({ provider: "google", type: "popup" });
   };
-
   return (
     <>
       <div className="field">
-        <button
-          className="button is-primary is-fullwidth"
-          onClick={onClickFunc}
-        >
+        <button className="button is-black is-fullwidth" onClick={onClickFunc}>
           <span className="icon is-small">
-            <i className="fas fa-google"></i>
+            <i className="fab fa-google"></i>
           </span>
           <span>Login with your Google Account</span>
         </button>

@@ -1,14 +1,15 @@
 import React from "react";
 import HomeBodyTop from "../2_molecules/HomeBodyTop";
-import HomeBodyMain from "../2_molecules/HomeBodyMain";
+import HomeBodyGetStarted from "../2_molecules/HomeBodyGetStarted";
 import HomeBodyMain2 from "../2_molecules/HomeBodyMain2";
+import HomeBodyHowToUse from "../2_molecules/HomeBodyMainHowToUse";
 
 const HomeBody = () => {
   return (
     <>
       <HomeBodyTop />
-      <HomeBodyMain />
-      <HomeBodyMain2 />
+      <HomeBodyGetStarted />
+      <HomeBodyHowToUse />
     </>
   );
 };

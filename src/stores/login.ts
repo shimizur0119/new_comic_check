@@ -1,16 +1,20 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
-import { RootState } from "./index";
+import firebase, { auth, providor } from "../firebase";
 
-import { auth } from "../firebase";
+type User = {
+  uid: string;
+  displayName: string;
+  email: string;
+};
 
 // Stateの初期状態
 export type LoginType = {
   email: string;
   password: string;
-  user: firebase.User | null;
+  user: User | null;
 };
 
-const initialState: any = {
+const initialState: LoginType = {
   email: "",
   password: "",
   user: null,
@@ -23,18 +27,19 @@ export const loginFetch = createAsyncThunk(
   async (arr: Array<string>) => {
     const [email, password] = arr;
     console.log("login fetch");
-    const data = await auth
-      .signInWithEmailAndPassword(email, password)
-      .then((e) => {
-        console.log("login!!");
-        return e;
-      })
-      .catch(() => {
-        console.log("login error...");
-      });
+    const data = await auth.signInWithEmailAndPassword(email, password);
     console.log(data);
-    const user = auth.currentUser;
+    const user = data.user;
     console.log(user);
+    return user;
+  }
+);
+
+export const loginFetchWithGoogle = createAsyncThunk(
+  "login/fetchWithGoogle",
+  async () => {
+    const data = await auth.signInWithPopup(providor);
+    const user = data.user;
     return user;
   }
 );
@@ -50,11 +55,9 @@ const slice = createSlice({
     setPassword: (state, action) => {
       return { ...state, password: action.payload };
     },
-  },
-  extraReducers: (builder) => {
-    builder.addCase(loginFetch.fulfilled, (state, action) => {
+    setUser: (state, action) => {
       return { ...state, user: action.payload };
-    });
+    },
   },
 });
 
@@ -62,4 +65,4 @@ const slice = createSlice({
 export default slice.reducer;
 
 // Action Creatorsをエクスポートする
-export const { setEmail, setPassword } = slice.actions;
+export const { setEmail, setPassword, setUser } = slice.actions;

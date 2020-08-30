@@ -1,11 +1,11 @@
 import React from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { StoreState } from "../../stores/index";
+import { RootState } from "../../stores/index";
 import { setEmail } from "../../stores/login";
 
 const LoginId = () => {
   const dispatch = useDispatch();
-  const email = useSelector((state: StoreState) => state.login.email);
+  const email = useSelector((state: RootState) => state.login.email);
   const onChangeFunc = (e: React.ChangeEvent<HTMLInputElement>) => {
     dispatch(setEmail(e.target.value));
   };

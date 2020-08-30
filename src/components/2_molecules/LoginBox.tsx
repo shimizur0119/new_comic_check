@@ -15,6 +15,9 @@ const LoginBox = () => {
             <LoginId />
             <LoginPassword />
             <LoginButton />
+          </div>
+          <div className="is-size-2 has-text-centered">or</div>
+          <div className="px-3 my-5">
             <LoginButtonWithGoogle />
           </div>
         </div>

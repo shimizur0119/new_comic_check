@@ -1,11 +1,11 @@
 import React from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { StoreState } from "../../stores/index";
+import { RootState } from "../../stores/index";
 import { setPassword } from "../../stores/login";
 
 const LoginPassword = () => {
   const dispatch = useDispatch();
-  const password = useSelector((state: StoreState) => state.login.password);
+  const password = useSelector((state: RootState) => state.login.password);
   const onChangeFunc = (e: React.ChangeEvent<HTMLInputElement>) => {
     dispatch(setPassword(e.target.value));
   };

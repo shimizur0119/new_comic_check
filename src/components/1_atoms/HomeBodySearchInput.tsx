@@ -1,12 +1,12 @@
-import React, { useContext } from "react";
+import React from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { StoreState } from "../../stores/index";
+import { RootState } from "../../stores/index";
 import { setWord, setRes } from "../../stores/search";
 
 const HomeBodySearchInput = () => {
-  const word = useSelector((state: StoreState) => state.search.word);
+  const word = useSelector((state: RootState) => state.search.word);
   const titleList = useSelector(
-    (state: StoreState) => state.search.resTitleList
+    (state: RootState) => state.search.resTitleList
   );
   const dispatch = useDispatch();
 
